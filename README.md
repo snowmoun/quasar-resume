@@ -3,9 +3,10 @@
 This is a resume template.
 
 ## demo
-![demo image1](/blob/main/img/1.PNG)
-![demo image2](/blob/main/img/2.png)
-![demo image3](/blob/main/img/3.png)
+https://github.com/snowmoun/quasar-resume/blob/main/img/1.PNG
+![demo image1](https://github.com/snowmoun/quasar-resume/blob/main/img/1.PNG)
+![demo image2](https://github.com/snowmoun/quasar-resume/blob/main/img/2.PNG)
+![demo image3](https://github.com/snowmoun/quasar-resume/blob/main/img/3.PNG)
 
 ## Install the dependencies
 ```bash
