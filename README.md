@@ -3,7 +3,6 @@
 This is a resume template.
 
 ## demo
-https://github.com/snowmoun/quasar-resume/blob/main/img/1.PNG
 ![demo image1](https://github.com/snowmoun/quasar-resume/blob/main/img/1.PNG)
 ![demo image2](https://github.com/snowmoun/quasar-resume/blob/main/img/2.PNG)
 ![demo image3](https://github.com/snowmoun/quasar-resume/blob/main/img/3.PNG)
