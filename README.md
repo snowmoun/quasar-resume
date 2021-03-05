@@ -2,6 +2,11 @@
 
 This is a resume template.
 
+## demo
+![demo image1](/img/1.png)
+![demo image2](/img/2.png)
+![demo image3](/img/3.png)
+
 ## Install the dependencies
 ```bash
 yarn
@@ -17,6 +22,3 @@ yarn dev
 ```bash
 yarn build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
